@@ -1,2 +1,3 @@
 # Python
-My first repo
+My first repo.
+Author - Nithi
